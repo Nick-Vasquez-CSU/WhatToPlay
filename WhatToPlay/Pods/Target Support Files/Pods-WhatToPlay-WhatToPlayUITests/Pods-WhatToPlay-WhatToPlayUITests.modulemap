@@ -1,0 +1,6 @@
+framework module Pods_WhatToPlay_WhatToPlayUITests {
+  umbrella header "Pods-WhatToPlay-WhatToPlayUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

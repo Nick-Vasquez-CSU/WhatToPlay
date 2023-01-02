@@ -1,0 +1,69 @@
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "6ek-jR-5yb"; */
+"6ek-jR-5yb.text" = "Title";
+
+/* Class = "UILabel"; text = "Select..."; ObjectID = "A5f-ng-2Aq"; */
+"A5f-ng-2Aq.text" = "Select...";
+
+/* Class = "UITabBarItem"; title = "WTP"; ObjectID = "HYd-jY-Fv0"; */
+"HYd-jY-Fv0.title" = "WTP";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "IES-8d-EaK"; */
+"IES-8d-EaK.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Player Count"; ObjectID = "K9V-vI-l5F"; */
+"K9V-vI-l5F.text" = "Player Count";
+
+/* Class = "UIButton"; configuration.title = "Export"; ObjectID = "MXE-FY-fbM"; */
+"MXE-FY-fbM.configuration.title" = "Export";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "Mxa-cr-kIc"; */
+"Mxa-cr-kIc.text" = "Detail";
+
+/* Class = "UITabBarItem"; title = "Saved"; ObjectID = "NDK-yK-g5d"; */
+"NDK-yK-g5d.title" = "Saved";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RLt-3i-fpA"; */
+"RLt-3i-fpA.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Rating"; ObjectID = "Sdb-2j-eMv"; */
+"Sdb-2j-eMv.text" = "Rating";
+
+/* Class = "UILabel"; text = "Platform"; ObjectID = "YF0-v2-9qg"; */
+"YF0-v2-9qg.text" = "Platform";
+
+/* Class = "UIButton"; configuration.title = "Edit"; ObjectID = "f95-ex-TF7"; */
+"f95-ex-TF7.configuration.title" = "Edit";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "f95-ex-TF7"; */
+"f95-ex-TF7.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Search"; ObjectID = "fIB-Zf-mpC"; */
+"fIB-Zf-mpC.configuration.title" = "Search";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fIB-Zf-mpC"; */
+"fIB-Zf-mpC.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "g4r-hF-DuJ"; */
+"g4r-hF-DuJ.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "h6x-Vx-DFy"; */
+"h6x-Vx-DFy.title" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hQE-6n-Yld"; */
+"hQE-6n-Yld.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Select..."; ObjectID = "hcc-Tk-4dB"; */
+"hcc-Tk-4dB.text" = "Select...";
+
+/* Class = "UILabel"; text = "Genre"; ObjectID = "o6P-g0-dIE"; */
+"o6P-g0-dIE.text" = "Genre";
+
+/* Class = "UILabel"; text = "Select..."; ObjectID = "s2c-jX-8rj"; */
+"s2c-jX-8rj.text" = "Select...";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xA0-Qt-C2C"; */
+"xA0-Qt-C2C.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Game Title"; ObjectID = "xz6-Jt-SOW"; */
+"xz6-Jt-SOW.text" = "Game Title";
