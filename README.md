@@ -4,10 +4,10 @@ Our submission for CPSC 411-03, Section 03, What To Play Final Project
 
 # Group Information
 
-* Ai Chan Tran <aichantran@csu.fullerton.edu> 890644024
-* Nicolas Vasquez <nickvas67@csu.fullerton.edu> 888869864
-* Ryan Christopher L. Valenton <RCValenton@csu.fullerton.edu> 888601234
-* Kristofer Calma <calmakris@csu.fullerton.edu> 891907263
+* Ai Chan Tran <aichantran@csu.fullerton.edu>
+* Nicolas Vasquez <nickvas67@csu.fullerton.edu>
+* Ryan Christopher L. Valenton <RCValenton@csu.fullerton.edu>
+* Kristofer Calma <calmakris@csu.fullerton.edu>
 
 # Instructions
 
