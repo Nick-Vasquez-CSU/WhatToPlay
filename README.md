@@ -13,11 +13,11 @@
 * The application runs through the XCode 14.0.1 environment
 1. Download the 'WhatToPlay' folder from the repository
 2. With XCode, open the 'WhatToPlay' folder
-3a. For the best viewing experience, set the ios simulator on the top-middle to be iphone11/iphone pro max (App can still be viewed via iPad if desired)
-3b. On the top-left click the play button
-4. Navigate to the application on the simulated iphone and have fun!
+3. For the best viewing experience, set the ios simulator on the top-middle to be iphone11/iphone pro max (App can still be viewed via iPad if desired)
+4. On the top-left click the play button
+5. Navigate to the application on the simulated iphone and have fun!
 
-### Incase of error, please see below
+### In case of error, please see below
 
 Make sure to open WhatToPlay.xcworkspace instead of WhatToPlay.xcodeproj<br />
 If cocoapods installation and set up is require, then run:<br />
