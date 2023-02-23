@@ -1,7 +1,3 @@
-# Final Project Submission
-
-Our submission for CPSC 411-03, Section 03, What To Play Final Project
-
 # Group Information
 
 * Ai Chan Tran <aichantran@csu.fullerton.edu>
@@ -9,7 +5,11 @@ Our submission for CPSC 411-03, Section 03, What To Play Final Project
 * Ryan Christopher L. Valenton <RCValenton@csu.fullerton.edu>
 * Kristofer Calma <calmakris@csu.fullerton.edu>
 
-# Instructions
+##### WHAT WE LEARNED
+* 
+
+
+##### HOW TO RUN THE PROJECT
 
 Make sure to open WhatToPlay.xcworkspace instead of WhatToPlay.xcodeproj<br />
 If cocoapods installation and set up is require, then run:<br />
