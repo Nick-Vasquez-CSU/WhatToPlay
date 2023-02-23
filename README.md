@@ -6,8 +6,14 @@
 * Kristofer Calma <calmakris@csu.fullerton.edu>
 
 ##### WHAT WE LEARNED
-* 
-
+* How to utilize callbacks to transition between multiple views within the application
+* How to internalize and localize an application according to the user's desired language
+* How to utilize RESTful POST/GET requests within the swift programming language
+* How to persist application settings, database information, and exported files after the termination of the application
+* How to utilize text input/delegation to restrict the user's input to specified characters
+* How to utilize the storyboard layout within XCode to create view controllers and their corresponding interactive assets
+* How to log changes made within the application to the terminal for debugging
+* Tools: Swift, Cocoapods, XCode, MacOS Terminal, Ruby
 
 ##### HOW TO RUN THE PROJECT
 * The application runs through the XCode 14.0.1 environment
