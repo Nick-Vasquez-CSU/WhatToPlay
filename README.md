@@ -1,4 +1,4 @@
-# Group Information
+### WhatToPlay
 
 * Ai Chan Tran <aichantran@csu.fullerton.edu>
 * Nicolas Vasquez <nickvas67@csu.fullerton.edu>
@@ -23,7 +23,7 @@
 4. On the top-left click the play button
 5. Navigate to the application on the simulated iphone and have fun!
 
-### In case of error, please see below
+##### In case of error, please see below
 
 Make sure to open WhatToPlay.xcworkspace instead of WhatToPlay.xcodeproj<br />
 If cocoapods installation and set up is require, then run:<br />
