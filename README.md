@@ -17,7 +17,8 @@
 3b. On the top-left click the play button
 4. Navigate to the application on the simulated iphone and have fun!
 
-! Incase of error, please see below !
+### Incase of error, please see below
+
 Make sure to open WhatToPlay.xcworkspace instead of WhatToPlay.xcodeproj<br />
 If cocoapods installation and set up is require, then run:<br />
 -Brew install cocoapods<br />
