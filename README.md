@@ -4,6 +4,7 @@
 * Nicolas Vasquez <nickvas67@csu.fullerton.edu>
 * Ryan Christopher L. Valenton <RCValenton@csu.fullerton.edu>
 * Kristofer Calma <calmakris@csu.fullerton.edu>
+
 ![Screenshot](md.png)
 
 ##### WHAT WE LEARNED
